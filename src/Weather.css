@@ -1,0 +1,28 @@
+/* .Weather{
+   
+}
+
+.Weather > form {
+
+} */
+
+.Weather > form  input{
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid black;
+    margin: 0;
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.Weather > form  button{
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid black;
+    background-color: #333;
+    column-rule: #eee;
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.Weather > select {
+    margin: 1rem 0;
+}
